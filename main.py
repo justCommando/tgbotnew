@@ -6,7 +6,7 @@ from aiogram.types import InputFile
 from aiogram.utils import executor
 from resizer import resize_image
 
-API_TOKEN = '6312214155:AAG8Px0FXXNJNX3Rt7sl59Fp7mTlU8H7Wws'
+API_TOKEN = 'your_token_here'
 
 bot = Bot(token=API_TOKEN)
 dp = Dispatcher(bot)
